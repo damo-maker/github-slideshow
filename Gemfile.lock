@@ -256,6 +256,9 @@ PLATFORMS
 DEPENDENCIES
   github-pages (>= 201)
   html-proofer (>= 3.13.0)
+  gem "kramdown", ">= 2.3.0"
+
+
   tzinfo-data
 
 BUNDLED WITH
